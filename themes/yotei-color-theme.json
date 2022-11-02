@@ -2,10 +2,34 @@
 	"name": "Yotei",
 	"type": "dark",
 	"colors": {
-		"editor.background": "#263238",
-		"editor.foreground": "#eeffff",
-		"activityBarBadge.background": "#007acc",
-		"sideBarTitle.foreground": "#bbbbbb"
+		"editor.background": "#211925",
+		"editor.foreground": "#FEF7FF",
+		"editor.selectionBackground": "#3B2A45",
+		"statusBar.background": "#4D4352",
+		"activityBarBadge.background": "#4182AB",
+		"activityBar.background": "#211925",
+		"breadcrumb.foreground": "#B2A7B8",
+		"button.background": "#8117c7",
+		"icon.foreground": "#B7C9D8",
+		"menu.background": "#211925",
+		"menu.selectionBackground": "#4F0098",
+		"titleBar.activeBackground": "#20031d",
+		"sideBar.background": "#20031d",
+		"sideBarTitle.foreground": "#FD4200",
+		"tab.hoverForeground": "#FD4200",
+		"tab.activeBorderTop": "#FD4200",
+		"tab.activeForeground": "#CC65FF",
+		"tab.inactiveForeground": "#789EBB",
+		"list.hoverBackground": "#3B2A45",
+		"focusBorder": "#FD4200",
+		"input.placeholderForeground": "#B7C9D8",
+		"input.background": "#3B2A45",
+		"gitDecoration.ignoredResourceForeground": "#3FFCE8",
+		"terminal.ansiCyan": "#3FFCE8",
+		"terminal.ansiGreen": "#B2A7B8",
+		"terminal.ansiYellow": "#FD4200",
+		"terminal.ansiBrightBlue": "#8117C7",
+		"terminal.ansiMagenta": "#685600"
 	},
 	"tokenColors": [
 		{
@@ -16,7 +40,7 @@
 			],
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#546E7A"
+				"foreground": "#B2A7B8"
 			}
 		},
 		{
@@ -26,7 +50,7 @@
 				"string constant.other.placeholder"
 			],
 			"settings": {
-				"foreground": "#EEFFFF"
+				"foreground": "#FEF7FF"
 			}
 		},
 		{
@@ -45,7 +69,7 @@
 				"invalid.illegal"
 			],
 			"settings": {
-				"foreground": "#FF5370"
+				"foreground": "#ff002b"
 			}
 		},
 		{
@@ -56,7 +80,7 @@
 				"storage.modifier"
 			],
 			"settings": {
-				"foreground": "#C792EA"
+				"foreground": "#CC65FF"
 			}
 		},
 		{
@@ -76,7 +100,7 @@
 				"keyword.other.substitution"
 			],
 			"settings": {
-				"foreground": "#89DDFF"
+				"foreground": "#FEF7FF"
 			}
 		},
 		{
@@ -87,7 +111,7 @@
 				"markup.deleted.git_gutter"
 			],
 			"settings": {
-				"foreground": "#f07178"
+				"foreground": "#E3009D"
 			}
 		},
 		{
@@ -100,7 +124,8 @@
 				"keyword.other.special-method"
 			],
 			"settings": {
-				"foreground": "#82AAFF"
+				"fontStyle": "italic",
+				"foreground": "#FD4200"
 			}
 		},
 		{
@@ -109,7 +134,7 @@
 				"meta.block variable.other"
 			],
 			"settings": {
-				"foreground": "#f07178"
+				"foreground": "#FEF7FF"
 			}
 		},
 		{
@@ -135,7 +160,8 @@
 				"keyword.other"
 			],
 			"settings": {
-				"foreground": "#F78C6C"
+				"fontStyle": "italic",
+				"foreground": "#FFC147"
 			}
 		},
 		{
@@ -150,7 +176,7 @@
 				"meta.group.braces.curly constant.other.object.key.js string.unquoted.label.js"
 			],
 			"settings": {
-				"foreground": "#C3E88D"
+				"foreground": "#F9F871"
 			}
 		},
 		{
@@ -166,7 +192,7 @@
 				"support.type.sys-types"
 			],
 			"settings": {
-				"foreground": "#FFCB6B"
+				"foreground": "#FF3270"
 			}
 		},
 		{
@@ -175,7 +201,8 @@
 				"support.type"
 			],
 			"settings": {
-				"foreground": "#B2CCD6"
+				"fontStyle": "italic",
+				"foreground": "#FFC1FF"
 			}
 		},
 		{
@@ -189,7 +216,8 @@
 				"source.postcss support.type.property-name"
 			],
 			"settings": {
-				"foreground": "#B2CCD6"
+				"fontStyle": "italic",
+				"foreground": "#f07178"
 			}
 		},
 		{
@@ -239,7 +267,8 @@
 				"entity.other.attribute-name"
 			],
 			"settings": {
-				"foreground": "#C792EA"
+				"fontStyle": "italic",
+				"foreground": "#3FFCE8"
 			}
 		},
 		{
@@ -250,7 +279,7 @@
 			],
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#FFCB6B"
+				"foreground": "#3a2909"
 			}
 		},
 		{
@@ -259,7 +288,7 @@
 				"entity.other.attribute-name.class"
 			],
 			"settings": {
-				"foreground": "#FFCB6B"
+				"foreground": "#ce70fa"
 			}
 		},
 		{
@@ -268,7 +297,7 @@
 				"source.sass keyword.control"
 			],
 			"settings": {
-				"foreground": "#82AAFF"
+				"foreground": "#ff8282"
 			}
 		},
 		{
