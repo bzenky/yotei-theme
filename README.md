@@ -25,6 +25,10 @@ Editor settings:
 "workbench.iconTheme": "material-icon-theme",
 ```
 
+## Install
+
+All instructions can be found at [INSTALL.md](./INSTALL.md).
+
 ## License
 
 [MIT License](./LICENSE)
