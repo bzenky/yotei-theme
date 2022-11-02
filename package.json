@@ -9,7 +9,7 @@
     "url": "https://bzenky.dev"
   },
   "publisher": "Zenky",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "license": "MIT",
   "engines": {
     "vscode": "^1.72.0"
