@@ -89,7 +89,6 @@
 				"keyword.control",
 				"constant.other.color",
 				"punctuation",
-				"meta.tag",
 				"punctuation.definition.tag",
 				"punctuation.separator.inheritance.php",
 				"punctuation.definition.tag.html",
@@ -100,7 +99,7 @@
 				"keyword.other.substitution"
 			],
 			"settings": {
-				"foreground": "#FEF7FF"
+				"foreground": "#CC65FF"
 			}
 		},
 		{
