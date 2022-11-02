@@ -1,0 +1,21 @@
+{
+  "name": "yotei",
+  "displayName": "yotei",
+  "description": "A nice dark theme inspired by a purple/red sky at dawn.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.72.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "yotei",
+        "uiTheme": "vs-dark",
+        "path": "./themes/yotei-color-theme.json"
+      }
+    ]
+  }
+}
