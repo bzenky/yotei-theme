@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <img src="https://github.com/bzenky/yotei-theme/blob/main/icon.png?raw=true" alt="Yotei Logo" width="200">
+  <img src="https://i.imgur.com/6Do3vfl.png" alt="Yotei Logo" width="200">
   <br>
   Yotei for <a href="https://code.visualstudio.com/">Visual Studio Code</a>
   <br>
@@ -16,6 +16,9 @@
 
 ## Preview image configs
 
+1. Install [JetBrains Mono font](https://www.jetbrains.com/lp/mono/)
+2. Install [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)
+
 Editor settings:
 
 ```
@@ -28,6 +31,23 @@ Editor settings:
 ## Install
 
 All instructions can be found at [INSTALL.md](./INSTALL.md).
+
+# Contributors
+<table>
+  <thead>
+    <tr>
+      <td valign="bottom"><p align="center">
+  <a href="https://github.com/bzenky">
+    <img src="https://github.com/bzenky.png?size=100" align="center" />
+  </a>
+</p></td>
+    </tr>
+  </thead>
+
+  <tbody>
+    <td><a href="https://github.com/bzenky">Zenky</a></td>
+  </tbody>
+</table>
 
 ## License
 
